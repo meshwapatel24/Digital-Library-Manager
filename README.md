@@ -1,6 +1,5 @@
 # Digital-Library-Manager
 Python Digital Library Management System
-# Digital Library Manager
 
 ## Student Details
 - Name: Patel Meshwa
@@ -47,3 +46,5 @@ The application provides a graphical interface for managing books, searching and
 
 ## Project Result
 The sample collection contains 5 books with an average rating of 4.60.
+https://github.com/meshwapatel24/Digital-Library-Manager/edit/main/README.md
+
