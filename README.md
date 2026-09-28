@@ -48,3 +48,5 @@ The application provides a graphical interface for managing books, searching and
 The sample collection contains 5 books with an average rating of 4.60.
 https://github.com/meshwapatel24/Digital-Library-Manager/edit/main/README.md
 
+https://github.com/meshwapatel24/Digital-Library-Manager.git
+
